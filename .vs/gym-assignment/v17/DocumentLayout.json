@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|c:\\users\\soe yu lwin\\desktop\\min thu kyaw\\gym-assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|c:\\users\\soe yu lwin\\desktop\\min thu kyaw\\gym-assignment\\pages\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:pages\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|c:\\users\\soe yu lwin\\desktop\\min thu kyaw\\gym-assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|c:\\users\\soe yu lwin\\desktop\\min thu kyaw\\gym-assignment\\pages\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:pages\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|c:\\users\\soe yu lwin\\desktop\\min thu kyaw\\gym-assignment\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623FC6-A97F-4B08-9A74-BEC530AE0E21}|gym-assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:18:38.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwFMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:11:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Pages\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Pages\\Mainmenu.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Pages\\Mainmenu.cs",
+              "RelativeToolTip": "Pages\\Mainmenu.cs",
+              "ViewState": "AQIAAP8BAAAAAAAAAAAgwAsCAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T18:10:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainmenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Pages\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Pages\\Mainmenu.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Pages\\Mainmenu.cs [Design]",
+              "RelativeToolTip": "Pages\\Mainmenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T18:00:00.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Utils\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Utils\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Utils\\DatabaseManager.cs",
+              "RelativeToolTip": "Utils\\DatabaseManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:19:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:46:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Soe Yu Lwin\\Desktop\\min thu kyaw\\gym-assignment\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:46:13.219Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

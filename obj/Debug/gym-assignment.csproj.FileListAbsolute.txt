@@ -1,0 +1,17 @@
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\gym-assignment.exe.config
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\gym-assignment.exe
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\gym-assignment.pdb
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assignment.csproj.AssemblyReference.cache
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym_assignment.Form1.resources
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym_assignment.Properties.Resources.resources
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assignment.csproj.GenerateResource.cache
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assignment.csproj.CoreCompileInputs.cache
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assignment.exe
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assignment.pdb
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\EntityFramework.dll
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\EntityFramework.xml
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\obj\Debug\gym-assi.5035E69F.Up2Date
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\gym-db.mdf
+C:\Users\Soe Yu Lwin\Desktop\min thu kyaw\gym-assignment\bin\Debug\gym-db_log.ldf
